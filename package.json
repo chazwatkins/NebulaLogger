@@ -85,10 +85,10 @@
         "test:nocoverage": "npm run test:lwc && npm run test:apex"
     },
     "dependencies": {
-        "@xmldom/xmldom": ">=0.8.4",
+        "@xmldom/xmldom": ">=0.8.10",
         "ansi-regex": ">=5.0.1",
         "async": ">=2.6.4",
-        "ejs": ">=3.1.7",
+        "ejs": ">=3.1.10",
         "follow-redirects": ">=1.14.8",
         "glob-parent": ">=5.1.2",
         "got": ">=11.8.5",
@@ -97,10 +97,10 @@
         "marked": ">=4.0.10",
         "minimatch": ">=3.0.5",
         "moment": ">=2.29.4",
-        "nanoid": ">=3.1.31",
+        "nanoid": ">=5.0.9",
         "shelljs": ">=0.8.5",
         "simple-get": ">=4.0.1",
-        "vm2": ">=3.9.11"
+        "vm2": ">=3.9.19"
     },
     "devDependencies": {
         "@babel/core": "latest",
@@ -115,7 +115,7 @@
         "@salesforce/eslint-plugin-aura": "latest",
         "@salesforce/eslint-plugin-lightning": "latest",
         "@salesforce/sfdx-lwc-jest": "latest",
-        "@salesforce/sfdx-scanner": "^3.6.2",
+        "@salesforce/sfdx-scanner": "^3.26.0",
         "@types/jest-when": "^3.5.0",
         "babel-eslint": "^10.1.0",
         "eslint": "latest",
